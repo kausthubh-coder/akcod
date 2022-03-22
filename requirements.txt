@@ -1,0 +1,7 @@
+django
+
+django-quill-editor
+
+gunicorn
+
+django-heroku

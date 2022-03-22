@@ -1,0 +1,2 @@
+web: gunicorn codingclub.wsgi:application
+release: python manage.py migrate
